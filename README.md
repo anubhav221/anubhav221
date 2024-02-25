@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anubhav221
-- 👀 I’m doing btech in data science and AI
+- 👀 I have done btech in data science and AI from IIIT-Naya Raipur
 - 🌱 I prefer tensorflow but can work on pytorch if needed
-- 💞️ I’m looking to collaborate on any project in NLP
+- 💞️ Currently working as a Data Analyst in American Express and mainly working on Call Transcripts
 - 📫 How to reach me : [linkedin](www.linkedin.com/in/anubhav-yadav-667515191)
 
 <!---
